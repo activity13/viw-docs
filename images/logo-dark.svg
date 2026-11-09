@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1150 280"
+   width="100%"
+   height="100%"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="logo-h.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.71264066"
+     inkscape:cx="563.39755"
+     inkscape:cy="187.33144"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <defs
+     id="defs3">
+    <radialGradient
+       id="irisDepthH"
+       cx="45%"
+       cy="45%"
+       r="60%">
+      <stop
+         offset="0%"
+         stop-color="#16a34a"
+         id="stop1" />
+      <stop
+         offset="65%"
+         stop-color="#0f5128"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#082b15"
+         id="stop3" />
+    </radialGradient>
+  </defs>
+  <!-- Contenedor Dark Mode del banner -->
+  <rect
+     x="1.2501001"
+     y="0"
+     width="1150"
+     height="280"
+     rx="24"
+     ry="24"
+     fill="#090d12"
+     stroke="#1f2937"
+     stroke-width="2"
+     id="rect3" />
+  <!-- ELEMENTO 1: EL OJO EXPRESIVO (Escala balanceada) -->
+  <g
+     transform="translate(45, 18) scale(0.86)"
+     id="g8">
+    <!-- Párpado superior -->
+    <path
+       d="M 40 135 C 80 45 155 20 200 20 C 250 20 315 45 360 135"
+       fill="none"
+       stroke="#22c55e"
+       stroke-width="20"
+       stroke-linecap="round"
+       id="path3" />
+    <!-- Párpado inferior -->
+    <path
+       d="M 40 135 C 85 215 145 240 200 240 C 255 240 310 215 360 135"
+       fill="none"
+       stroke="#16a34a"
+       stroke-width="15"
+       stroke-linecap="round"
+       id="path4" />
+    <!-- Iris -->
+    <circle
+       cx="200"
+       cy="132"
+       r="76"
+       fill="url(#irisDepthH)"
+       stroke="#22c55e"
+       stroke-width="6"
+       id="circle4" />
+    <circle
+       cx="200"
+       cy="132"
+       r="52"
+       fill="#070a0d"
+       id="circle5" />
+    <!-- Carta estilizada -->
+    <rect
+       x="175"
+       y="98"
+       width="50"
+       height="68"
+       rx="8"
+       ry="8"
+       fill="#22c55e"
+       id="rect5" />
+    <line
+       x1="187"
+       y1="115"
+       x2="213"
+       y2="115"
+       stroke="#070a0d"
+       stroke-width="4.5"
+       stroke-linecap="round"
+       id="line5" />
+    <line
+       x1="187"
+       y1="130"
+       x2="213"
+       y2="130"
+       stroke="#070a0d"
+       stroke-width="4.5"
+       stroke-linecap="round"
+       id="line6" />
+    <line
+       x1="187"
+       y1="145"
+       x2="204"
+       y2="145"
+       stroke="#070a0d"
+       stroke-width="4.5"
+       stroke-linecap="round"
+       id="line7" />
+    <!-- Puntos de luz (alma) -->
+    <circle
+       cx="170"
+       cy="100"
+       r="11"
+       fill="#ffffff"
+       id="circle7" />
+    <circle
+       cx="228"
+       cy="158"
+       r="5"
+       fill="#86efac"
+       id="circle8" />
+  </g>
+  <!-- LÍNEA SEPARADORA ESTRUCTURAL -->
+  <line
+     x1="410"
+     y1="45"
+     x2="410"
+     y2="235"
+     stroke="#1e293b"
+     stroke-width="2.5"
+     stroke-linecap="round"
+     id="line8" />
+  <!-- ELEMENTO 2: LA PALABRA "VIW-CARTA" -->
+  <g
+     transform="translate(460, 158)"
+     id="g9">
+    <text
+       font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+       font-size="96px"
+       font-weight="900"
+       letter-spacing="4"
+       fill="#22c55e"
+       id="text8"
+       style="display:inline">VIW-CARTA</text>
+    <!-- Bajada tecnológica sutil -->
+    <text
+       x="6"
+       y="46"
+       font-family="system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+       font-size="20px"
+       font-weight="700"
+       letter-spacing="7"
+       fill="#64748b"
+       id="text9"
+       style="font-size:42.6667px;white-space:pre;inline-size:306.092;display:inline"
+       inkscape:label="text9"
+       transform="translate(477.08254,3.6989741)"
+       xml:space="preserve"><tspan
+         x="6"
+         y="46"
+         id="tspan3">1.0.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+       x="593.75317"
+       y="-136.17084"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="593.75317"
+         y="-136.17084">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;writing-mode:lr-tb;direction:ltr;fill:#000000"
+       x="605.05286"
+       y="131.06573"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"></tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="594.34857"
+     y="233.17516"
+     id="text10"><tspan
+       sodipodi:role="line"
+       id="tspan10"
+       x="594.34857"
+       y="233.17516">vv</tspan></text>
+</svg>

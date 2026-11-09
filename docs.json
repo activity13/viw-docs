@@ -1,0 +1,49 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Viw-Carta",
+  "colors": {
+    "primary": "#10b981",
+    "light": "#34d399",
+    "dark": "#059669"
+  },
+  "favicon": "/favicon.png",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Comenzando",
+        "pages": [
+          "introduccion"
+        ]
+      },
+      {
+        "group": "Gestión de Carta",
+        "pages": [
+          "carta/variantes"
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/images/logo-light.svg",
+    "dark": "/images/logo-dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Panel de Control",
+        "href": "https://app.viw-carta.com/backoffice"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Ir a mi Carta",
+      "href": "https://app.viw-carta.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "website": "https://viw-carta.com"
+    }
+  }
+}
